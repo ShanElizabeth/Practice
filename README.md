@@ -5,8 +5,6 @@ You have a 2D binary matrix that's filled with 0s and 1s. In the matrix, find th
 
 For the following matrix:
 
-cssCopy code
-
 `matrix = [    ['1', '0', '1', '1', '1'],
     ['1', '0', '1', '1', '1'],
     ['1', '1', '1', '1', '1'],
