@@ -13,6 +13,7 @@ cssCopy code
     ['1', '0', '0', '1', '0'],
     ['1', '0', '0', '1', '0']
 ]` 
+![image](https://github.com/shan-mulgrew/practice/assets/42028485/19ae9162-c0b3-41a4-90ee-70b6d534b945)
 
 the output should be `solution(matrix) = 9`.
 
